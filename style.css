@@ -1,0 +1,40 @@
+body{
+    background-color: red;
+ background-image: linear-gradient(to right, #0CEBEB, purple);
+ background-repeat: repeat-x;
+    color: white;
+}
+.Heading{
+    width:80%;
+    font-size: 22px;
+}
+.Object_Name{
+    font-size: 20px;
+    font-weight: bold;
+}
+.snapshot, .Identify{
+width: 30%;
+font-size: 20px;
+}
+#result_object_name, #Accuracy{
+    color: red;
+
+}
+#image_border{
+    border: 20px;
+    border-style: dashed;
+    border-image: url(https://lh3.googleusercontent.com/proxy/Kd0DCeok3bfZ5T-HeNGf_02OZm4Gy32sRvulwsxLhpyGLmpAOhl9NCtLkfnry87zItQUoD2Yuf9AhvshSW_wAqY863_7fiQ) 30 round;
+    padding: 15px;
+    border-color: black;
+    width: 420px;
+    height: 350px;
+}
+#Photo_frame{
+    border: 20px;
+    border-style: dashed;
+    border-image: url(https://lh3.googleusercontent.com/proxy/Kd0DCeok3bfZ5T-HeNGf_02OZm4Gy32sRvulwsxLhpyGLmpAOhl9NCtLkfnry87zItQUoD2Yuf9AhvshSW_wAqY863_7fiQ) 30 round;
+    padding: 15px;
+    border-color: black;
+    width: 420px;
+    height: 350px;
+}
